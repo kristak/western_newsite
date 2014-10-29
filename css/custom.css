@@ -1,0 +1,44 @@
+/*!
+ * Bootstrap v3.2.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+
+body { padding-top: 70px; 
+background-color: #bada55
+}
+
+
+/*.navbar {
+    color: purple;
+
+}*/
+
+p {
+	color: blue;
+}
+
+.item {
+	color: blue;
+}
+
+@media (min-width: 768px) {
+    .navbar-header {
+        background-color: yellow;
+    }
+}
+
+.navbar-brand {
+
+        background-color: orange;
+
+    }
+
+.navabar-header {
+        background-color: blue;
+
+    }
+
