@@ -3244,6 +3244,7 @@ tbody.collapse.in {
   .navbar-right .dropdown-menu {
     right: 0;
     left: auto;
+    
   }
   .navbar-right .dropdown-menu-left {
     right: auto;
@@ -3772,8 +3773,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
-  color: purple;
-
+  
 }
 @media (min-width: 768px) {
   .navbar {
@@ -3783,7 +3783,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
-    background-color: yellow;
+    
   }
 }
 .navbar-collapse {
