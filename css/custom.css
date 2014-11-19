@@ -7,11 +7,16 @@
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 
 
-body { padding-top: 70px; 
-background-color: #bada55
+body { 
+    padding-top: 80px; 
+background-color: #bada55;
+
 }
 
+.jumbotron {
+    background-color: #bada55;
 
+}
 /*.navbar {
     color: purple;
 
@@ -21,24 +26,63 @@ p {
 	color: blue;
 }
 
+h3 {
+    color: black;
+}
+
+.lead {
+    color: purple;
+}
+
 .item {
 	color: blue;
 }
 
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
     .navbar-header {
         background-color: yellow;
     }
-}
+}*/
 
 .navbar-brand {
 
-        background-color: orange;
+        background-color: black;
 
-    }
+
+  float: left;
+  height: 50px;
+  padding: 5px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  
+
+}
+
+    
 
 .navabar-header {
         background-color: blue;
 
     }
+.navbar .navbar-inverse  {
+    margin:0;
+    text-align: center;
+    float:none;
+    color: gray;
+}
+
+
+.carousel-caption {
+    color: black;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+
+
+
+} 
+
+
+
 
