@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e5f9ad9-c82e-45b8-8b43-6d6ad6cdf2d5" name="Default" comment="added custom.css">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2.html" />
+    <list default="true" id="9e5f9ad9-c82e-45b8-8b43-6d6ad6cdf2d5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/photo6_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/photo7_1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="western_newsite.iws" />
@@ -111,6 +112,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="western_newsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="western_newsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="western_newsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,7 +327,11 @@
       <created>1416425196259</created>
       <updated>1416425196259</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added new versions of index.html">
+      <created>1416425449143</created>
+      <updated>1416425449143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -350,7 +369,8 @@
     </option>
     <MESSAGE value="added custom.css link to index.html" />
     <MESSAGE value="added custom.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="added custom.css" />
+    <MESSAGE value="added new versions of index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new versions of index.html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
