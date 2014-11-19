@@ -8,8 +8,8 @@
 
 
 body { 
-    padding-top: 80px; 
-background-color: #bada55;
+    /*padding-top: 80px; */
+    background-color: #bada55;
 
 }
 
@@ -35,7 +35,7 @@ h3 {
 }
 
 .item {
-	color: blue;
+	color: purple;
 }
 
 /*@media (min-width: 768px) {
@@ -58,31 +58,69 @@ h3 {
 
 }
 
-    
+.navbar {
+    size: 100px;
+}  
 
 .navabar-header {
         background-color: blue;
 
     }
-.navbar .navbar-inverse  {
+/*.navbar .navbar-inverse  {
     margin:0;
     text-align: center;
-    float:none;
+    float:150px;
     color: gray;
+    height: 150px;
+}
+*/
+/*
+.carousel-caption {
+    color: purple;
+    max-width: 550px;
+    padding: 0 20px;
+    margin:0 auto;
+    margin-top: 200px;
+    text-align:right;
+    position: right; 
 }
 
+.carousel-inner {
+    overflow: hidden;
+}
+*/
+.carousel {
+    position: relative;
+}
+
+.controllers {
+    position: absolute;
+    top: 50px;
+}
 
 .carousel-caption {
-    color: black;
+left: 20%;
+right: 20%;
+padding-bottom: 30px;
 }
 
-.carousel-inner > .item > img, 
-.carousel-inner > .item > a > img{
+.carousel-control.left, 
+.carousel-control.right {
+    background-image: none;
+}
 
+.carousel-caption {
+position: relative;
+left: 0;
+right: 0;
+bottom: 0;
+z-index: 10;
+padding-top: 0;
+padding-bottom: 0;
+color: #000;
+text-align: center;
+text-shadow: none;
 
-
-} 
-
-
+}
 
 
