@@ -12,13 +12,44 @@ body {
 	border-width:20px;	
     border-style: solid;
     border-color: #bada55;
-    padding: 40px 100px 20px;
+    padding: 30px 100px 20px;
+    /*background-color: #58D3F7;*/
 }
 
+.logo_container {
+    width: 150px;
+    height: 100px;
+}
+
+/* resize images */
+.logo_container img {
+    width: 100%;
+    height: auto;
+}
+
+}
 /*.jumbotron {
     background-color: #bada55;
 }
-*/
+*/.navbar {
+  position: relative;
+  min-height: 50px;
+  margin: 0 auto;
+  border: 1px solid transparent;
+  border-color: purple;
+  background-color: #99CCFF;
+  font-size: 16px;
+
+}
+
+@media (min-width: 768px){
+    .navbar-nav{
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+        float:none;
+    }
+}
 
 p {
 	color: black;
@@ -28,38 +59,22 @@ h3 {
     color: black;
 }
 
-.lead {
-    color: purple;
-}
-
-.item {
-	color: purple;
-}
-
 /*@media (min-width: 768px) {
     .navbar-header {
         background-color: yellow;
     }
 }*/
 
+ 
 .navbar-brand {
-
-        background-color: black;
-
-
   float: left;
   height: 50px;
-  padding: 5px 15px;
+  padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
-  
+  background-color: purple;
 
 }
-
-.navbar {
-    size: 100px;
-}  
-
 /*.navbar .navbar-inverse  {
     margin:0;
     text-align: center;
@@ -73,7 +88,8 @@ h3 {
     position: center;
     background-color: #bada55;
     margin-top: 20px;
-     
+    margin-bottom: 20px;
+    
 }
 
 .controllers {
@@ -90,6 +106,7 @@ padding-bottom: 30px;
 .carousel-control.left, 
 .carousel-control.right {
     background-image: none;
+
 }
 
 .carousel-caption {
