@@ -1,0 +1,134 @@
+/*!
+ * Bootstrap v3.2.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+
+body { 
+    background-color: white;
+    padding: 30px 100px 20px;
+
+}
+/*
+#wrap {
+margin: 0 auto;
+padding: 10px 20px 20px 20px;
+width: auto;
+background: #0b204c;
+border-top: 10px solid #091a3f;
+}
+*/
+.header {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.logo {
+float: left;
+width: 150px;
+height: 100px;
+padding-bottom: 50px;
+}
+
+/* resize images */
+.logo img {
+    width: 100%;
+    height: auto;
+}
+
+.address {
+float: right;
+width: 150px;
+height: 100px;
+padding-bottom: 50px;
+text-align: right;
+}
+
+#address p {
+	
+	text-align: right;
+}
+
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin: 0 auto;
+  border: 5px solid transparent;
+  border-color: purple;
+  background-color: #bada55;
+  font-size: 17px;
+  font-weight: 500;
+
+}
+
+/* centers navbar elements */
+@media (min-width: 768px){
+    .navbar-nav{
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+        float:none;
+ }
+}
+
+p {
+	color: black;
+	font-size: 16px;
+
+}
+
+
+h3 {
+    color: black;
+}
+
+.carousel {
+    position: relative;
+    background-color: #bada55;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.controllers {
+    position: absolute;
+    top: 250px;
+    
+}
+
+#footer {
+	clear: both;
+	width: auto;
+
+}
+
+#copyright p {
+	font-size: 11px;
+}
+
+#site_links p {
+	font-size: 12px;
+    text-align: center;
+
+
+}
+
+#socialmedia {
+	text-align: right;
+
+}
+
+hr {
+	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+
+}
