@@ -75,6 +75,7 @@ text-align: right;
         table-layout: fixed;
         float:none;
  }
+}
 
 p {
 	color: black;
@@ -107,7 +108,7 @@ h3 {
 */
 
 .carousel {
-    position: center;
+    position: relative;
     background-color: #bada55;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -148,19 +149,27 @@ padding-bottom: 30px;
 
 #footer {
 	clear: both;
+	width: auto;
 
 }
 
-#footer p {
+#footer-left {
 	font-size: 11px;
 }
 
-#footer a {
-	position: right;
+#footer-center {
+	font-size: 11px;
+	
+
+}
+
+#footer-right {
+	text-align: right;
+	margin-right: 100px;
 }
 
 iframe {
-	position: right;
+	text-align: right;
 }
 
 hr {
@@ -168,9 +177,11 @@ hr {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 100px;
     border-style: inset;
     border-width: 1px;
+
 }
+
 
 
