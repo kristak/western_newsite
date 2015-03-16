@@ -70,6 +70,7 @@ text-align: right;
 	margin-right: 50px;
 	text-align: right;
   font-size: 14px;
+  color: white;
 }
 
 
@@ -130,14 +131,33 @@ p {
   
 }
 
-.col-md-8 {
-  border-left: thick solid black;
-  
-}
 
 .col-sm-6 col-md-3 p{
   font-size: 10px;
 }
+
+
+.thumbnail #awards {
+  background-color: #E0E0E0;
+  padding: 5px;
+  border: solid 1px;
+  border-color: black;
+    
+}
+
+#awards p {
+  font-size: 12px;
+
+}
+
+#facilities {
+  padding-left: 150px;
+}
+
+#restaurant {
+  padding-left: 80px;
+}
+
 
 #footer {
 	clear: both;
