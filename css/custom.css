@@ -26,6 +26,7 @@ background: white ;
 /*border: 10px solid #006600; */
 border: 0px 20px 20px 20px solid white; 
 padding-bottom: 50px;
+/*background-color: #466368; */
 
 }
 
@@ -51,7 +52,7 @@ padding-left: 50px;
 
 /* resize images */
 .logo img {
-    background-image: url("images/western_logo_3.png");
+    background-image: url("./images/western_logo_3.png");
     width: 100%;
     height: auto;
 
@@ -106,8 +107,8 @@ text-align: right;
 }
 
 p {
-	/*margin-right: 110px;*/
 	font-size: 16px;
+ /* color: white; */
 
 }
 
@@ -125,17 +126,6 @@ p {
     top: 250px;
     
 }
-
-/*.col-md-4 {
-  font-size: 12px;
-  
-}
-
-
-.col-sm-6 col-md-3 p{
-  font-size: 10px;
-}
-*/
 
 .thumbnail #awards {
   background-color: #E0E0E0;
@@ -164,7 +154,6 @@ p {
 #site_links p {
 	font-size: 12px;
   text-align: left;
-
 
 }
 
