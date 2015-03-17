@@ -126,7 +126,7 @@ p {
     
 }
 
-.col-md-4 {
+/*.col-md-4 {
   font-size: 12px;
   
 }
@@ -135,7 +135,7 @@ p {
 .col-sm-6 col-md-3 p{
   font-size: 10px;
 }
-
+*/
 
 .thumbnail #awards {
   background-color: #E0E0E0;
@@ -148,14 +148,6 @@ p {
 #awards p {
   font-size: 12px;
 
-}
-
-#facilities {
-  padding-left: 40px;
-}
-
-#restaurant {
-  padding-left: 80px;
 }
 
 

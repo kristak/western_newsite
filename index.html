@@ -1,13 +1,14 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
 
-  	<title>Western Health & Racquets Club</title>
+  	<title>Western Health &amp; Racquets Club</title>
 
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
+
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -16,15 +17,33 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
-    
-		
   </head>
   <body>
-  	 <!-- Navbar -->
-        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+    <!--Wrapper for the entire page -->
+    <div id="wrap">
+
+        <!--HEADER -->
+        <div id="header">
+
+          <div id="logo">
+            <a class="logo" href="./index.html">
+            <img src="images/western_logo_3.png" alt="Western logo"></a>
+          </div>
+
+          <div id="address">
+            <p>30 Hyndland Road, Glasgow, G12 9UP<br>
+            Tel: 0141 339 0065<br>
+            <a href="mailto:info@glasgowwestern.co.uk">info@glasgowwestern.co.uk</a></p>
+            <p><a href="https://twitter.com/WesternTennis" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @WesternTennis</a></p>
+          </div>
+        </div>
+
+      <!-- NAVBAR -->
+    <nav class="navbar navbar-static-top" role="navigation">
+      <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -32,140 +51,282 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
-
+                <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Western Health & Racquets Club</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="./index.html">Home</a></li>
+       <!--                         
+              <li class="dropdown" role="dropdown_menu">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tennis <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Fixtures</a></li>
+                      <li><a href="#">Teams</a></li>
+                      <li><a href="#">Coaching</a></li>
+                      <li><a href="#">Juniors</a></li>
+                      <li><a href="#">Book a Court</a></li>
+                    </ul>
+              <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Squash <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Teams</a></li>
+                      <li><a href="#">Coaching</a></li>
+                      <li><a href="#">Juniors</a></li>
+                      <li><a href="#">Book a Court</a></li>                   
+                    </ul>
+              <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gym <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Equipment</a></li>
+                      <li><a href="#">Classes</a></li>
+                      <li><a href="#">Personal Training</a></li>
+                    </ul>
+                
+              </li> -->
+                  <li><a href="./tennis.html">Tennis</a></li>
+                  <li><a href="./squash.html">Squash</a></li>
+                  <li><a href="./gym.html">Gym</a></li>
+                  <li><a href="./membership.html">Membership</a></li>
+                  <li><a href="./events.html">Events</a></li>
+                  <li><a href="./partners.html">Partners</a></li>
+                  <li><a href="./contact.html">Contact</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+      </div><!--/.container-->
+    </nav><!--/.nav?-->
+    
+    <!-- CAROUSEL -->
+
+  <div class="container">
+  <div class="row">
+  <div class="col-md-2">&nbsp;</div>
+  <div class="col-md-8">
+    <div id="carousel-index" class="carousel slide" data-ride="carousel">
+
+        <!-- Indicators-->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-index" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-index" data-slide-to="1"></li>
+        <li data-target="#carousel-index" data-slide-to="2"></li>
+        <li data-target="#carousel-index" data-slide-to="3"></li>
+        <li data-target="#carousel-index" data-slide-to="4"></li>
+        <li data-target="#carousel-index" data-slide-to="5"></li>
+      </ol>
+
+    <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <!--First item -->
+        <div class="item active">
+          <div class="col-sm-8">
+            <img class="img-responsive" src="./images/gym_1.jpg" alt="...">
+          </div>
+        </div>
+
+        <!-- Second item -->
+        <div class="item">
+          <div class="col-sm-8">
+            <img class="img-responsive" src="./images/cafe_1.jpg" alt="...">
+          </div>
+        </div>
+
+        <!--Third item -->
+        <div class="item">
+          <div class="col-sm-8">
+            <img class="img-responsive" src="./images/changing_2.jpg" alt="...">
+          </div>
+        </div>
+
+        <!--Fourth item -->
+        <div class="item">
+          <div class="col-sm-8">
+            <img class="img-responsive" src="./images/photo6_1.jpg" alt="...">
+          </div>
+        </div>
+
+        <!--Fifth item -->
+        <div class="item">
+          <div class="col-sm-8">
+            <img class="img-responsive" src="./images/photo7_1.jpg" alt="...">
+          </div>
+        </div>
+
+        <!--Sixth item -->
+        <div class="item">
+          <div class="col-sm-8">
+            <img class="img-responsive" src="./images/free_weights_2.jpg" alt="...">
+          </div>
+        </div>
+
+      </div>  <!-- close div for "carousel-inner"-->
+
+
+      <!-- CONTROLS -->
+      <div class="controllers col-sm-8 col-xs-12">
+          <!--left controll -->
+        <a class="left carousel-control" href="#carousel-index" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+          <!--right controll -->
+        <a class="right carousel-control" href="#carousel-index" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+      </div>
+    </div> <!--close div for "carousel-index" -->
+    </div>
+    <div class="col-md-2">&nbsp;</div>
+    </div>
+   </div> <!-- close div for container -->
+
+    <!-- Container for content -->
+    <div class="container">
+
+            <div class="row">
+                <div class="col-md-10">
+                    <h2>About our Club</h2>
+                    <p>In the heart of Glasgow's West End, the Western Health &amp; Racquets Club is the ideal place for everyone to play sport, get fit and have a good time. Our site will provide you with lots of information about the club, its facilities, sport sections, membership, coaching, social events and holidays. If you would like to know more or would like an application form then get in touch via telephone or email, or even pop down to the clubhouse.</p>
+                </div>
+                
+                <div class="col-sm-2">
+                 <div class="thumbnail">
+                    <div id ="awards">
+                    <h5>Awards</h5>
+                     <p>&nbsp;<em><b>Tennis Club of the Year 2007</b></em>, 
+                        awarded by Tennis Scotland.</p>
+                    <p>&nbsp;Awarded <em><b>Tennis Clubmark</b></em> 
+                      status by LTA in 2009</p>
+                    </div> 
+                  </div> 
+                </div>     
             </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#facilities">Club Facilities</a></li>
-                <li><a href="tennis">Tennis</a></li>
-                <li><a href="#squash">Squash</a></li>
-                <li><a href="#gym">Gym</a></li>
-                <li><a href="#membership">Membership</a></li>
-                <li><a href="#contact">Contact Us</a></li>
-                <!--<li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tennis <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="#">Teams</a></li>
-                    <li><a href="#">Coaching</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
-                  </ul>
-                </li>-->
 
-              </ul>
-              <!--<ul class="nav navbar-nav navbar-right">
-                <li><a href="../navbar/">Default</a></li>
-                <li class="active"><a href="./">Membership</a></li>
-                <li><a href="../navbar-fixed-top/">Contact</a></li>
-              </ul>-->
-            </div><!--/.nav-collapse -->
-          </div><!--/.container-->
-        </nav><!--/.nav?-->
-
-
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-  </ol>
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-      <img src="images/gym_1.jpg" alt="picture of cardio suite">
-      <div class="carousel-caption">
-        <h3>Cardio Suite</h3>
-        <p>Coming in March 2015</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/cafe_1.jpg" alt="photo of new cafe">
-      <div class="carousel-caption">
-        <h3>Club cafe</h3>
-        <p>Socialise with your friends after a game of squash</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/changing_2.jpg" alt="photo of changing rooms">
-      <div class="carousel-caption">
-        <h3>Changing rooms</h3>
-        <p>Brand new</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/photo6.jpg" alt="photo of club">
-      <div class="carousel-caption">
-        <h3>Outdoors</h3>
-        <p>Outdoor facilities</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/photo7.jpg" alt="photo of outside">
-      <div class="carousel-caption">
-        <h3>Outdoors</h3>
-        <p>Outdoor facilities</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/free_weights_2.jpg" alt="photo of weight room">
-      <div class="carousel-caption">
-        <h3>Weight room</h3>
-        <p>Free weights galore</p>
-      </div>
-    </div>
-    
-  </div>
-    
-
-
-  <!-- Controls -->
-<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-</a>
-<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-</a>
-</div>
-<div class="container">
-    <!--<div class="container">
-            <div class="jumbotron">
-              <h1>Hello, world!</h1>
-              <p class="lead">Bacon ipsum dolor sit amet tenderloin chuck jowl, drumstick pork loin kevin andouille tri-tip. Turkey biltong sirloin, tongue rump pork belly t-bone tail sausage venison corned beef. Jerky pig shoulder beef, tri-tip turducken kevin ribeye prosciutto spare ribs.</p>
-              <a class="btn btn-primary btn-lg">Learn more</a>
-            </div> -->
             <div class="row">
                 <div class="col-md-4">
-                    <h3>Latest News</h3>
-                    <p>Bacon ipsum dolor sit amet tenderloin chuck jowl, drumstick pork loin kevin andouille tri-tip. Turkey biltong sirloin, tongue rump pork belly t-bone tail sausage venison corned beef. Jerky pig shoulder beef, tri-tip turducken kevin ribeye prosciutto spare ribs.</p>
-                    <p><a href="#" class="btn btn-primary">More &raquo;</a></p>
+                  
+                  <h2>Club Facilities</h2>
+                    <ul>
+                        <li>Six all-weather floodlit tennis courts</li>
+                        <li>Three squash courts</li>
+                        <li>A modern gym with plasma TV screens</li>
+                        <li>Members Area</li>
+                        <li>A drinks patio and BBQ area</li>
+                        <li>Clubhouse facilities, including changing rooms</li>
+                        <li>New Cafe</li>
+                    </ul> 
+                </div> 
+
+                <div class="col-md-1">&nbsp;</div> 
+
+                <div class="col-md-7">
+
+                <!-- Twitter start -->
+                  <a class="twitter-timeline" href="https://twitter.com/WesternTennis" data-widget-id="489376059557552128">Tweets by @WesternTennis</a>
+                  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+                </div>   
+            </div> <!--close div for "row" -->
+
+            <div class="row">
+              <div class="col-md-12">
+                  <h2>Latest News</h2>
+                  <script language="JavaScript" src="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fcottierprojects.blogspot.co.uk%2Fatom.xml&num=4&desc=250&au=y&utf=y"  charset="UTF-8" type="text/javascript"></script>
+                    <noscript>
+                    <a href="http://feed2js.org//feed2js.php?src=http%3A%2F%2Fcottierprojects.blogspot.co.uk%2Fatom.xml&num=4&desc=250&au=y&utf=y&html=y">View RSS feed</a>
+                    </noscript>
+              </div>
+           </div> <!--close div for "row" -->
+           
+            
+            <div class="row">
+              <div class="col-md-2">&nbsp;</div>
+
+              <div class="col-md-4">
+                  <h2>**New** Restaurant</h2>
+                    <ul>
+                        <li>Building work to finish end of March</li>
+                        <li>Internal work April &amp; May</li>
+                        <li>Restaurant to open end of May/early June</li>
+                        <li>New entrance stairs operational early AprilMembers Area</li>
+                        <li>New balcony</li>
+                    </ul> 
+                </div>  
+
+                <div class="col-sm-4">
+                  <div class="thumbnail">
+                    <img src="./images/building_sm.png" alt="Social tennis doubles event">
+                  </div>
+                </div> 
+
+                <div class="col-md-2">&nbsp;</div>          
+
+            </div><!--close div for "row" -->
+          
+    </div> <!--close div for "container" -->
+  
+  <!-- Container for footer -->
+    <div class="container">  
+
+    <!-- FOOTER -->
+    <div id="footer">
+      <hr> <!-- line -->
+
+        <div class="row">
+                <div class="col-md-5">
+                  <div id="copyright">
+                      <p>Copyright &copy; 2015 Western Health &amp; Racquets Club all rights reserved.</p>
+                  </div>
                 </div>
-                <div class="col-md-4">
-                    <h3>About our Club</h3>
-                    <p>Bacon ipsum dolor sit amet tenderloin chuck jowl, drumstick pork loin kevin andouille tri-tip. Turkey biltong sirloin, tongue rump pork belly t-bone tail sausage venison corned beef. Jerky pig shoulder beef, tri-tip turducken kevin ribeye prosciutto spare ribs.</p>
-                    <p><a href="#" class="btn btn-primary">More &raquo;</a></p>
+
+               <div class="col-md-5">
+                 <div id="site_links">
+                      <p><a href="./index.html">Home &nbsp;</a>
+                        <a href="./tennis.html">Tennis &nbsp;</a>
+                        <a href="./squash.html">Squash &nbsp;</a>
+                        <a href="./gym.html">Gym &nbsp;</a>
+                        <a href="./membership.html">Membership &nbsp;</a>
+                        <a href="./events.html">Events &nbsp;</a>
+                        <a href="./partners.html">Partners &nbsp;</a>
+                        <a href="./contact.html">Contact</a></p>
+                  </div>
                 </div>
-                <div class="col-md-4">
-                    <h3>Events</h3>
-                    <p>Bacon ipsum dolor sit amet tenderloin chuck jowl, drumstick pork loin kevin andouille tri-tip. Turkey biltong sirloin, tongue rump pork belly t-bone tail sausage venison corned beef. Jerky pig shoulder beef, tri-tip turducken kevin ribeye prosciutto spare ribs.</p>
-                    <p><a href="#" class="btn btn-primary">More &raquo;</a></p>
+
+              <div class="col-md-1">
+                 <div id="socialmedia"> 
+                  <!-- Twitter follow button -->
+                        <a href="https://twitter.com/WesternTennis" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @WesternTennis<</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+                        <!-- End of Twitter follow button -->
+
+                      <!-- Facebook like button -->
+                      <div class="fb-like" data-href="https://www.facebook.com/pages/Western-Health-Racquets-Club/102932193079041?ref=hl" data-width="47" data-layout="button" data-action="like" data-show-faces="false" data-share="false">
+
+                      </div>  <!-- End of Facebook like button -->
+
                 </div>
-            </div>
-        </div>
-</div>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+              </div>
+
+          </div>  <!--close div for "row" -->
+      </div>   <!--close div for "footer" -->
+    </div>   <!--close div for "container" -->
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.js"></script>
-  </body>
-</html>
+    <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+
+  </div>  <!--close div for "wrap" -->
+
+ </body>
+
+</html>  
+  

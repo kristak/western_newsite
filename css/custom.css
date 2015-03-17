@@ -8,122 +8,188 @@
 
 
 body { 
-    /*padding-top: 80px; */
     background-color: white;
-	border-width:15px;	
-    border-style:none solid solid;
-}
+    
+    /*padding: 30px 100px 20px; 
+    /*border: 75px solid white; */
 
-.jumbotron {
-    background-color: #bada55;
-    border-width:5px;	
-    border-style:solid;
+
 
 }
-/*.navbar {
-    color: purple;
 
-}*/
+#wrap {
+margin: 0 auto;
 
-p {
-	color: blue;
-}
-
-h3 {
-    color: black;
-}
-
-.lead {
-    color: purple;
-}
-
-.item {
-	color: purple;
-}
-
-/*@media (min-width: 768px) {
-    .navbar-header {
-        background-color: yellow;
-    }
-}*/
-
-.navbar-brand {
-
-        background-color: black;
-
-
-  float: left;
-  height: 50px;
-  padding: 5px 15px;
-  font-size: 18px;
-  line-height: 20px;
-  
+/*padding: 10px 20px 20px 20px; */
+width: auto;
+background: white ;
+/*border: 10px solid #006600; */
+border: 0px 20px 20px 20px solid white; 
+padding-bottom: 50px;
 
 }
+
+#header {
+	padding-top: 30px;
+	padding-bottom: 10px;
+  /*background-color: green; */
+  background: #466368;
+  background: -webkit-linear-gradient(#648880, #293f50);
+  background:    -moz-linear-gradient(#648880, #293f50);
+  background:         linear-gradient(#648880, #293f50); 
+  /*background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(1, #000099)); */
+
+}
+
+.logo {
+float: left;
+width: 225px;
+height: 100px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+/* resize images */
+.logo img {
+    background-image: url("images/western_logo_3.png");
+    width: 100%;
+    height: auto;
+
+}
+
+.address {
+float: right;
+width: 225px;
+height: 100px;
+padding-bottom: 50px;
+padding-right: 50px;
+text-align: right;
+}
+
+#address p {
+	margin-right: 50px;
+	text-align: right;
+  font-size: 14px;
+  color: white;
+}
+
 
 .navbar {
-    size: 100px;
-}  
-
-.navabar-header {
-        background-color: blue;
-
-    }
-/*.navbar .navbar-inverse  {
-    margin:0;
-    text-align: center;
-    float:150px;
-    color: gray;
-    height: 150px;
-}
-*/
-/*
-.carousel-caption {
-    color: purple;
-    max-width: 550px;
-    padding: 0 20px;
-    margin:0 auto;
-    margin-top: 200px;
-    text-align:right;
-    position: right; 
+  position: relative;
+  min-height: 50px;
+  margin: 0 auto;
+  border: 3px solid transparent;
+  /*border-color: purple; 
+  background-color: #bada55; */
+  background-color: black; 
+  font-size: 17px;
+  font-weight: 500;
 }
 
-.carousel-inner {
-    overflow: hidden;
+.image {
+  height: 400px;
+  width: auto;
+  padding-top: 20px;
+  position: absolute;
+  right: 80px;
+    
 }
-*/
+
+/* centers navbar elements */
+@media (min-width: 768px){
+    .navbar-nav{
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+        float:none;
+ }
+}
+
+p {
+	/*margin-right: 110px;*/
+	font-size: 16px;
+
+}
+
+
 .carousel {
     position: relative;
+    /*background-color: #bada55;*/
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
 }
 
 .controllers {
     position: absolute;
-    top: 50px;
+    top: 250px;
+    
 }
 
-.carousel-caption {
-left: 20%;
-right: 20%;
-padding-bottom: 30px;
-}
-
-.carousel-control.left, 
-.carousel-control.right {
-    background-image: none;
-}
-
-.carousel-caption {
-position: relative;
-left: 0;
-right: 0;
-bottom: 0;
-z-index: 10;
-padding-top: 0;
-padding-bottom: 0;
-color: #000;
-text-align: center;
-text-shadow: none;
-
+/*.col-md-4 {
+  font-size: 12px;
+  
 }
 
 
+.col-sm-6 col-md-3 p{
+  font-size: 10px;
+}
+*/
+
+.thumbnail #awards {
+  background-color: #E0E0E0;
+  padding: 5px;
+  border: solid 1px;
+  border-color: black;
+    
+}
+
+#awards p {
+  font-size: 12px;
+
+}
+
+
+#footer {
+	clear: both;
+	width: auto;
+
+}
+
+#copyright p {
+	font-size: 11px;
+}
+
+#site_links p {
+	font-size: 12px;
+  text-align: left;
+
+
+}
+
+#socialmedia {
+	text-align: right;
+
+}
+
+hr {
+	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+
+}
+
+#map-canvas {
+        width: 600px;
+        height: 375px;
+        background-color: #CCC;
+      }
+
+h4 {
+font: bold;
+}
