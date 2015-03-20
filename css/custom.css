@@ -10,8 +10,8 @@
 body { 
     background-color: white;
     
-    /*padding: 30px 100px 20px; 
-    /*border: 75px solid white; */
+    /*padding: 30px 100px 20px; */
+  /*border-right: 75px solid grey; */
 
 
 
@@ -24,7 +24,7 @@ margin: 0 auto;
 width: auto;
 background: white ;
 /*border: 10px solid #006600; */
-border: 0px 20px 20px 20px solid white; 
+border: 0px 75px 75px 75px solid grey; 
 padding-bottom: 50px;
 
 background-color: #FFFFF9; 
@@ -83,7 +83,7 @@ text-align: right;
   border: 3px solid transparent;
   /*border-color: purple; 
   background-color: #bada55; */
-  /*background-color: black; */
+  background-color: white; 
   font-size: 17px;
   font-weight: 500;
 }
