@@ -10,6 +10,7 @@
 body { 
     background-color: white;
     
+    
     /*padding: 30px 100px 20px; */
   /*border-right: 75px solid grey; */
 
@@ -23,8 +24,9 @@ width: auto;
 /*border: 10px solid #006600; */
 border: 0px 75px 75px 75px solid gray; 
 padding-bottom: 50px;
-
-background-color: #444444; 
+font-family: 'Cabin', sans-serif;
+/*background-color: #444444; */
+background-color: #293f50;
 
 
 }
@@ -82,7 +84,14 @@ text-align: right;
   background-color: white; 
   font-size: 17px;
   font-weight: 500;
+
+  
 }
+
+.navbar a {
+  color: #293f50;
+}
+
 
 .image {
   height: 400px;
@@ -100,13 +109,13 @@ text-align: right;
         display: table;
         table-layout: fixed;
         float:none;
+
  }
 }
 
 p {
 	font-size: 16px;
- /* color: white; */
-
+  
 }
 
 
@@ -181,6 +190,16 @@ h4 {
 font: bold;
 }
 
-h2 {
-  font-family: 'Gloria Hallelujah', cursive;
+h1, h2 {
+  font-family: 'Coming Soon', cursive, bold;
+  /*font: bold;
+  /*font-family: 'Architects Daughter', cursive;
+  /*font-family: 'Gloria Hallelujah', cursive; */
 }
+
+
+
+
+
+
+
