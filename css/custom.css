@@ -10,24 +10,15 @@
 body { 
     background-color: white;
     
-    
-    /*padding: 30px 100px 20px; */
-  /*border-right: 75px solid grey; */
-
-
-
 }
 
 #wrap {
 margin: 0 auto;
 width: auto;
-/*border: 10px solid #006600; */
 border: 0px 75px 75px 75px solid gray; 
 padding-bottom: 50px;
 font-family: 'Cabin', sans-serif;
-/*background-color: #444444; */
 background-color: #293f50;
-
 
 }
 
@@ -88,8 +79,24 @@ text-align: right;
   
 }
 
+/* navbar font color*/
 .navbar a {
   color: #293f50;
+}
+
+/* navbar active color */
+.navbar-nav>.active>a,
+.navbar-nav>.active>a:hover,
+.navbar-nav>.active>a:focus {
+    color: white ;
+    background-color: #293f50;
+}
+
+
+.navbar-nav>li>a:hover,
+.navbar-nav>li>a:focus {
+    color: white;
+    background-color: #293f50;
 }
 
 
@@ -121,7 +128,6 @@ p {
 
 .carousel {
     position: relative;
-    /*background-color: #bada55;*/
     margin-top: 20px;
     margin-bottom: 20px;
     
@@ -192,9 +198,7 @@ font: bold;
 
 h1, h2 {
   font-family: 'Coming Soon', cursive, bold;
-  /*font: bold;
-  /*font-family: 'Architects Daughter', cursive;
-  /*font-family: 'Gloria Hallelujah', cursive; */
+  
 }
 
 
