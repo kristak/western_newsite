@@ -24,7 +24,7 @@ background-color: #293f50;
 
 #header {
 	padding-top: 30px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
   background: #466368;
   background: -webkit-linear-gradient(#648880, #293f50);
   background:    -moz-linear-gradient(#648880, #293f50);
@@ -51,12 +51,13 @@ padding-left: 50px;
 
 .address {
 float: right;
-width: 225px;
-height: 100px;
+width: 300px;
+height: 150px;
 padding-bottom: 60px;
-padding-right: 50px;
+padding-right: 150px;
 text-align: right;
 }
+
 
 #address p {
 	margin-right: 50px;
@@ -71,7 +72,6 @@ text-align: right;
   min-height: 50px;
   margin: 0 auto;
   border: 3px solid transparent;
-  /*border-color: #466368; */
   background-color: white; 
   font-size: 17px;
   font-weight: 600;
@@ -99,6 +99,10 @@ text-align: right;
     background-color: #293f50;
 }
 
+.glyphicon-list {
+  color: #293f50;
+  font-size: 25px;
+}
 
 .image {
   height: 400px;
