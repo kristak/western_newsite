@@ -157,6 +157,10 @@ p {
 
 }
 
+#courtAvailability p {
+  color: red;
+}
+
 
 #footer {
 	clear: both;
