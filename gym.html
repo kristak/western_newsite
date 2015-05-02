@@ -149,10 +149,11 @@
                         <li>flexibilty and back pain management</li>
                       </ul> 
 
+      
                      
                     <p>Our personal trainers are:</p> 
                   <div class="tabbable">
-                    <ul class = "nav nav-tabs">
+                    <ul id ="myTab" class = "nav nav-tabs">
                       <li><a href="#markMclaughlin" data-toggle="tab">Mark McLaughlin</a></li>
                       <li><a href="#paulMurphy" data-toggle="tab">Paul Murphy</a></li>
                       <li><a href="#sharonMuir" data-toggle="tab">Sharon Muir</a></li>
@@ -322,6 +323,16 @@
       js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
       fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
+
+     <script> $('#myTab a').click(function (e) {
+    if($(this).parent('li').hasClass('active')){
+        $( $(this).attr('href') ).hide();
+    }
+    else {
+        e.preventDefault();
+        $(this).tab('show');
+    }
+  }); </script>
 
 
   </div>  <!--close div for "wrap" -->
