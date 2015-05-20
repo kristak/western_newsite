@@ -22,6 +22,30 @@ background-color: #293f50;
 
 }
 
+hr {
+  display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+
+}
+
+
+/* DIV ID PAGE STYLES */
+#homePageStyle, #pStyle p {
+  font-size: 16px;
+}
+
+p#pStyle {
+  font-size: 16px;
+}
+
+
+/* HEADER */
+
 #header {
 	padding-top: 30px;
 	padding-bottom: 20px;
@@ -66,6 +90,7 @@ text-align: right;
   color: white;
 }
 
+/* NAVBAR */
 
 .navbar {
   position: relative;
@@ -124,11 +149,7 @@ text-align: right;
  }
 }
 
-p {
-	font-size: 16px;
-  
-}
-
+/* CAROUSEL */
 
 .carousel {
     position: relative;
@@ -137,13 +158,12 @@ p {
     
 }
 
-
 .controllers {
     position: absolute;
-   
-    
+      
 } 
 
+/* AWARDS BOX HOME PAGE */
 .thumbnail #awards {
   background-color: #E0E0E0;
   padding: 5px;
@@ -157,10 +177,20 @@ p {
 
 }
 
-#courtAvailability p {
+/* COURT AVAILABILITY LINK HOME PAGE */
+
+#courtAvailability a {
   color: red;
+
 }
 
+#courtAvailability>p>a:hover,
+#courtAvailability>p>a:focus  {
+  color: blue;
+}
+
+
+/* FOOTER */
 
 #footer {
 	clear: both;
@@ -184,16 +214,6 @@ p {
 
 }
 
-hr {
-	display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-
-}
 
 #map-canvas {
         width: 600px;
@@ -205,11 +225,6 @@ h4 {
 font: bold;
 }
 
-/*h1, h2 {
-  font-family: 'Coming Soon', cursive, bold;
-  
-}
-*/
 
 #latestevent  {
   color: red;
@@ -219,7 +234,7 @@ font: bold;
   color: red;
 }
 
-
+/* BABOLAT TABLE */
 table.gridtable {
   font-size:12px;
   color:#333333;
@@ -240,6 +255,37 @@ table.gridtable td {
   padding: 8px;
   border-style: solid;
   border-color: #666666;
+  
+}
+
+/* MEMBERSHIP TABLE */
+
+.tableHeadingStyle  {
+  font-weight: bold;
+  font-size: 15px;
+}
+table.gridtableMembership {
+  color:#333333;
+  border-width: 1px;
+  border-color: #666666;
+  border-collapse: collapse;
+}
+
+table.gridtableMembership th {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #666666;
+  background-color: #293f50;
+  color: white;
+  font-size: 14px;
+}
+table.gridtableMembership td {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #666666;
+  font-size: 13px;
   
 }
 
