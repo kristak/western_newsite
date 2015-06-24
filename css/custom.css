@@ -180,13 +180,14 @@ text-align: right;
 /* COURT AVAILABILITY LINK HOME PAGE */
 
 #courtAvailability a {
-  color: red;
+  color: #41ad49;
+  font-weight: 700;
 
 }
 
 #courtAvailability>p>a:hover,
 #courtAvailability>p>a:focus  {
-  color: blue;
+  color:  #293f50;
 }
 
 
@@ -292,6 +293,15 @@ table.gridtableMembership td {
 .event-pics {
   color: #41ad49;
   font-weight: 800;
+}
+
+#blog-link-color a {
+  color: #41ad49;
+  font-weight: 600;
+}
+
+#blog-link-color a:hover  {
+  color:  #293f50;
 }
 
 
