@@ -1,39 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e5f9ad9-c82e-45b8-8b43-6d6ad6cdf2d5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ladies_team_sm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/photo6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/photo7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/snow.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tee2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/treads_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/western.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/western_logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/western_logo1.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/balls.JPG" afterPath="$PROJECT_DIR$/images/balls.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/gym_floor.JPG" afterPath="$PROJECT_DIR$/images/gym_floor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ladies_team.JPG" afterPath="$PROJECT_DIR$/images/ladies_team.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/marqui.JPG" afterPath="$PROJECT_DIR$/images/marqui.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people.JPG" afterPath="$PROJECT_DIR$/images/people.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/tickets.JPG" afterPath="$PROJECT_DIR$/images/tickets.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/group.JPG" afterPath="$PROJECT_DIR$/images/group.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/social.jpg" afterPath="$PROJECT_DIR$/images/social.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.html" afterPath="$PROJECT_DIR$/events.html" />
+    <list default="true" id="9e5f9ad9-c82e-45b8-8b43-6d6ad6cdf2d5" name="Default" comment="updated spelling of Caffe Parma">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gym.html" afterPath="$PROJECT_DIR$/gym.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/membership.html" afterPath="$PROJECT_DIR$/membership.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partners.html" afterPath="$PROJECT_DIR$/partners.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/squash.html" afterPath="$PROJECT_DIR$/squash.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tennis.html" afterPath="$PROJECT_DIR$/tennis.html" />
+    </list>
+    <list id="3f37b88c-b235-465b-a694-41bec760d9b1" name="images re-sized" comment="images re-sized">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="9a8c2b6e-a696-440b-a391-d34aed6434fb" name="Failed commit: Default" comment="updated images" />
     <ignored path="western_newsite.iws" />
     <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,40 +27,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="western_newsite" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="profiles_settings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Project_Default.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.746377" vertical-offset="4085" max-vertical-offset="5130">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="100" column="54" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -94,20 +54,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/index4.html" />
-        <option value="$PROJECT_DIR$/css/custom4.css" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1235" />
-    <option name="height" value="600" />
+    <option name="width" value="1280" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,7 +98,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,33 +117,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="western_newsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="western_newsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-  </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings />
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -201,6 +146,112 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="western_newsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="western_newsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="western_newsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="western_newsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="western_newsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -228,112 +279,6 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="western_newsite" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="western_newsite" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="western_newsite" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="western_newsite" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="western_newsite" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -342,141 +287,327 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9e5f9ad9-c82e-45b8-8b43-6d6ad6cdf2d5" name="Default" comment="" />
+      <changelist id="3f37b88c-b235-465b-a694-41bec760d9b1" name="images re-sized" comment="" />
       <created>1414610342667</created>
+      <option name="number" value="Default" />
       <updated>1414610342667</updated>
     </task>
-    <task id="LOCAL-00001" summary="added custom.css link to index.html">
-      <created>1414620235496</created>
-      <updated>1414620235496</updated>
+    <task id="LOCAL-00030" summary="updated footer">
+      <created>1426802653332</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1426802653332</updated>
     </task>
-    <task id="LOCAL-00002" summary="added custom.css">
-      <created>1414620555731</created>
-      <updated>1414620555731</updated>
+    <task id="LOCAL-00031" summary="updated squash and gym pages">
+      <created>1426863869727</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1426863869727</updated>
     </task>
-    <task id="LOCAL-00003" summary="added custom.css">
-      <created>1416425196259</created>
-      <updated>1416425196259</updated>
+    <task id="LOCAL-00032" summary="updated logo">
+      <created>1426865344499</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1426865344499</updated>
     </task>
-    <task id="LOCAL-00004" summary="added new versions of index.html">
-      <created>1416425449143</created>
-      <updated>1416425449143</updated>
+    <task id="LOCAL-00033" summary="updated events page-made thumbnails links">
+      <created>1426867794905</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1426867794905</updated>
     </task>
-    <task id="LOCAL-00005" summary="add images">
-      <created>1416425635160</created>
-      <updated>1416425635160</updated>
+    <task id="LOCAL-00034" summary="updated pages with panels">
+      <created>1428071917182</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1428071917182</updated>
     </task>
-    <task id="LOCAL-00006" summary="added version of index with different carousel">
-      <created>1416433693690</created>
-      <updated>1416433693690</updated>
+    <task id="LOCAL-00035" summary="updated nav bar css">
+      <created>1428091312254</created>
+      <option name="number" value="00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1428091312254</updated>
     </task>
-    <task id="LOCAL-00007" summary="Added latest version index4.html &amp; custom4.css">
-      <created>1420715558361</created>
-      <updated>1420715558361</updated>
+    <task id="LOCAL-00036" summary="updated">
+      <created>1428142321511</created>
+      <option name="number" value="00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1428142321512</updated>
     </task>
-    <task id="LOCAL-00008" summary="Updated index4.html &amp; custom4.css">
-      <created>1420733245172</created>
-      <updated>1420733245172</updated>
+    <task id="LOCAL-00037" summary="updated navbar hover colors">
+      <created>1428169928946</created>
+      <option name="number" value="00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1428169928946</updated>
     </task>
-    <task id="LOCAL-00009" summary="Updated index4.html &amp; custom4.css">
-      <created>1421166770632</created>
-      <updated>1421166770632</updated>
+    <task id="LOCAL-00038" summary="updated navbar hover colors">
+      <created>1428170744432</created>
+      <option name="number" value="00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1428170744432</updated>
     </task>
-    <task id="LOCAL-00010" summary="Updated index4.html &amp; custom4.css">
-      <created>1421235590821</created>
-      <updated>1421235590821</updated>
+    <task id="LOCAL-00039" summary="updated images and carousel">
+      <created>1428413831236</created>
+      <option name="number" value="00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1428413831236</updated>
     </task>
-    <task id="LOCAL-00011" summary="Updated index4.html &amp; custom4.css">
-      <created>1421251833548</created>
-      <updated>1421251833548</updated>
+    <task id="LOCAL-00040" summary="updated events page">
+      <created>1428414805784</created>
+      <option name="number" value="00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1428414805784</updated>
     </task>
-    <task id="LOCAL-00012" summary="Added latest version of index5.html &amp; custom5.css">
-      <created>1421262685995</created>
-      <updated>1421262685995</updated>
+    <task id="LOCAL-00041" summary="updated pages">
+      <created>1428423621490</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1428423621490</updated>
     </task>
-    <task id="LOCAL-00013" summary="Changed layout of content called index6.html updated custom5.css">
-      <created>1421264498352</created>
-      <updated>1421264498352</updated>
+    <task id="LOCAL-00042" summary="updated index">
+      <created>1428425112861</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1428425112861</updated>
     </task>
-    <task id="LOCAL-00014" summary="Added new files">
-      <created>1425409248009</created>
-      <updated>1425409248009</updated>
+    <task id="LOCAL-00043" summary="updated images">
+      <created>1429279530509</created>
+      <option name="number" value="00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1429279530509</updated>
     </task>
-    <task id="LOCAL-00015" summary="Added new files">
-      <created>1425409339846</created>
-      <updated>1425409339846</updated>
+    <task id="LOCAL-00044" summary="deleted images">
+      <created>1429281694180</created>
+      <option name="number" value="00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1429281694180</updated>
     </task>
-    <task id="LOCAL-00016" summary="update">
-      <created>1425924048946</created>
-      <updated>1425924048946</updated>
+    <task id="LOCAL-00045" summary="added images">
+      <created>1429281793972</created>
+      <option name="number" value="00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1429281793972</updated>
     </task>
-    <task id="LOCAL-00017" summary="update layout">
-      <created>1425925691768</created>
-      <updated>1425925691768</updated>
+    <task id="LOCAL-00046" summary="added spinning image, added fitness class page, updated gym, membership, &amp; partners pages">
+      <created>1429556181211</created>
+      <option name="number" value="00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1429556181211</updated>
     </task>
-    <task id="LOCAL-00018" summary="update layout and added membership and events pages">
-      <created>1425934377311</created>
-      <updated>1425934377311</updated>
+    <task id="LOCAL-00047" summary="fixed typos on gym, squash pages">
+      <created>1429695983391</created>
+      <option name="number" value="00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1429695983391</updated>
     </task>
-    <task id="LOCAL-00019" summary="added events page">
-      <created>1425934438396</created>
-      <updated>1425934438396</updated>
+    <task id="LOCAL-00048" summary="fixed image names">
+      <created>1429708523047</created>
+      <option name="number" value="00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1429708523047</updated>
     </task>
-    <task id="LOCAL-00020" summary="lastest page updates">
-      <created>1426506718312</created>
-      <updated>1426506718312</updated>
+    <task id="LOCAL-00049" summary="changed blog name">
+      <created>1429708572095</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1429708572095</updated>
     </task>
-    <task id="LOCAL-00021" summary="add images">
-      <created>1426506914426</created>
-      <updated>1426506914426</updated>
+    <task id="LOCAL-00050" summary="changed pilates pic">
+      <created>1429712645508</created>
+      <option name="number" value="00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1429712645508</updated>
     </task>
-    <task id="LOCAL-00022" summary="update index page">
-      <created>1426507388234</created>
-      <updated>1426507388234</updated>
+    <task id="LOCAL-00051" summary="removed drop down menu">
+      <created>1429712938791</created>
+      <option name="number" value="00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1429712938791</updated>
     </task>
-    <task id="LOCAL-00023" summary="update index page">
-      <created>1426522104822</created>
-      <updated>1426522104822</updated>
+    <task id="LOCAL-00052" summary="added glyphicon list button for responsive navbar">
+      <created>1429891704846</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1429891704846</updated>
     </task>
-    <task id="LOCAL-00024" summary="updated all files - &#10;index.html is the current home page&#10;custom.css is the current css file">
-      <created>1426603406656</created>
-      <updated>1426603406656</updated>
+    <task id="LOCAL-00053" summary="updated text">
+      <created>1430148077014</created>
+      <option name="number" value="00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1430148077015</updated>
     </task>
-    <task id="LOCAL-00025" summary="updated events and membership">
-      <created>1426604242146</created>
-      <updated>1426604242146</updated>
+    <task id="LOCAL-00054" summary="updated text">
+      <created>1430494329247</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1430494329247</updated>
     </task>
-    <task id="LOCAL-00026" summary="updated index - added blog">
-      <created>1426606116170</created>
-      <updated>1426606116170</updated>
+    <task id="LOCAL-00055" summary="updated text">
+      <created>1430574337735</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1430574337735</updated>
     </task>
-    <task id="LOCAL-00027" summary="updated css">
-      <created>1426606539896</created>
-      <updated>1426606539896</updated>
+    <task id="LOCAL-00056" summary="updated text, added spinning studio pics">
+      <created>1430821757608</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1430821757608</updated>
     </task>
-    <task id="LOCAL-00028" summary="updated footer">
-      <created>1426697136280</created>
-      <updated>1426697136280</updated>
+    <task id="LOCAL-00057" summary="updated text">
+      <created>1430835583770</created>
+      <option name="number" value="00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1430835583770</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00058" summary="updated text">
+      <created>1430835823670</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1430835823670</updated>
+    </task>
+    <task id="LOCAL-00059" summary="updated text">
+      <created>1430838673090</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1430838673090</updated>
+    </task>
+    <task id="LOCAL-00060" summary="updated images">
+      <created>1430839304806</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1430839304806</updated>
+    </task>
+    <task id="LOCAL-00061" summary="updated text">
+      <created>1431092053705</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1431092053705</updated>
+    </task>
+    <task id="LOCAL-00062" summary="updated text">
+      <created>1431094044913</created>
+      <option name="number" value="00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1431094044913</updated>
+    </task>
+    <task id="LOCAL-00063" summary="updated text">
+      <created>1431095527271</created>
+      <option name="number" value="00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1431095527272</updated>
+    </task>
+    <task id="LOCAL-00064" summary="updated images">
+      <created>1431173492169</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1431173492169</updated>
+    </task>
+    <task id="LOCAL-00065" summary="added tables to tennis page">
+      <created>1431290730185</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1431290730186</updated>
+    </task>
+    <task id="LOCAL-00066" summary="updated text">
+      <created>1431290960106</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1431290960106</updated>
+    </task>
+    <task id="LOCAL-00067" summary="changed font">
+      <created>1431335425883</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1431335425883</updated>
+    </task>
+    <task id="LOCAL-00068" summary="changed tabs to collapse">
+      <created>1431335982144</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1431335982144</updated>
+    </task>
+    <task id="LOCAL-00069" summary="changed text to collapse in gym&#10;updated header&#10;added text in footer">
+      <created>1431439352237</created>
+      <option name="number" value="00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1431439352237</updated>
+    </task>
+    <task id="LOCAL-00070" summary="updated text in events&#10;added blog feed to gym&#10;">
+      <created>1432051096609</created>
+      <option name="number" value="00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1432051096609</updated>
+    </task>
+    <task id="LOCAL-00071" summary="added photo on gym page&#10;">
+      <created>1432051125484</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1432051125484</updated>
+    </task>
+    <task id="LOCAL-00072" summary="updated css">
+      <created>1432152324055</created>
+      <option name="number" value="00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1432152324055</updated>
+    </task>
+    <task id="LOCAL-00073" summary="updated css">
+      <created>1432152712851</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1432152712851</updated>
+    </task>
+    <task id="LOCAL-00074" summary="added images&#10;updated text">
+      <created>1435176835588</created>
+      <option name="number" value="00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1435176835588</updated>
+    </task>
+    <task id="LOCAL-00075" summary="updated css - added color to blog a links&#10;updated text">
+      <created>1435179448242</created>
+      <option name="number" value="00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1435179448243</updated>
+    </task>
+    <task id="LOCAL-00076" summary="added pics">
+      <created>1435224486974</created>
+      <option name="number" value="00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1435224486974</updated>
+    </task>
+    <task id="LOCAL-00077" summary="added coaching_enquiry page">
+      <created>1438533911921</created>
+      <option name="number" value="00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1438533911922</updated>
+    </task>
+    <task id="LOCAL-00078" summary="updated spelling of Caffe Parma">
+      <created>1440152117850</created>
+      <option name="number" value="00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1440152117850</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1235" height="600" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="708" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32874015" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874015" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5398156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33198708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32200646" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.327451" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32580644" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -491,269 +622,395 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-    <MESSAGE value="added custom.css link to index.html" />
-    <MESSAGE value="added custom.css" />
-    <MESSAGE value="added new versions of index.html" />
-    <MESSAGE value="added version of index with different carousel" />
-    <MESSAGE value="Added latest version index4.html &amp; custom4.css" />
-    <MESSAGE value="Updated index4.html &amp; custom4.css" />
-    <MESSAGE value="Added latest version of index5.html &amp; custom5.css" />
-    <MESSAGE value="Changed layout of content called index6.html updated custom5.css" />
-    <MESSAGE value="Added new files" />
-    <MESSAGE value="update" />
-    <MESSAGE value="update layout" />
-    <MESSAGE value="update layout and added membership and events pages" />
-    <MESSAGE value="added events page" />
-    <MESSAGE value="lastest page updates" />
-    <MESSAGE value="add images" />
-    <MESSAGE value="update index page" />
-    <MESSAGE value="updated all files - &#10;index.html is the current home page&#10;custom.css is the current css file" />
-    <MESSAGE value="updated events and membership" />
-    <MESSAGE value="updated index - added blog" />
+    <MESSAGE value="updated index" />
+    <MESSAGE value="deleted images" />
+    <MESSAGE value="added images" />
+    <MESSAGE value="added spinning image, added fitness class page, updated gym, membership, &amp; partners pages" />
+    <MESSAGE value="fixed typos on gym, squash pages" />
+    <MESSAGE value="fixed image names" />
+    <MESSAGE value="changed blog name" />
+    <MESSAGE value="changed pilates pic" />
+    <MESSAGE value="removed drop down menu" />
+    <MESSAGE value="added glyphicon list button for responsive navbar" />
+    <MESSAGE value="updated text, added spinning studio pics" />
+    <MESSAGE value="updated images" />
+    <MESSAGE value="added tables to tennis page" />
+    <MESSAGE value="updated text" />
+    <MESSAGE value="changed font" />
+    <MESSAGE value="changed tabs to collapse" />
+    <MESSAGE value="changed text to collapse in gym&#10;updated header&#10;added text in footer" />
+    <MESSAGE value="updated text in events&#10;added blog feed to gym&#10;" />
+    <MESSAGE value="added photo on gym page&#10;" />
     <MESSAGE value="updated css" />
-    <MESSAGE value="updated footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated footer" />
+    <MESSAGE value="added images&#10;updated text" />
+    <MESSAGE value="updated css - added color to blog a links&#10;updated text" />
+    <MESSAGE value="added pics" />
+    <MESSAGE value="added coaching_enquiry page" />
+    <MESSAGE value="updated spelling of Caffe Parma" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated spelling of Caffe Parma" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4070" max-vertical-offset="5070">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="235" column="14" selection-start-line="235" selection-start-column="14" selection-end-line="235" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2025">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1410">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="915">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="915">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="750">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2025">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="312">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.641196" vertical-offset="795" max-vertical-offset="31800">
+        <state vertical-scroll-proportion="-2.641196">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.746377" vertical-offset="4085" max-vertical-offset="5130">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5823864">
+          <caret line="382" column="23" selection-start-line="382" selection-start-column="20" selection-end-line="382" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tennis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11931818">
+          <caret line="268" column="27" selection-start-line="268" selection-start-column="27" selection-end-line="268" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/squash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.457143">
+          <caret line="314" column="27" selection-start-line="314" selection-start-column="27" selection-end-line="314" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gym.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5857143">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.2028573">
+          <caret line="182" column="157" selection-start-line="182" selection-start-column="157" selection-end-line="182" selection-end-column="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/membership.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="54" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
