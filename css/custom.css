@@ -1,15 +1,5 @@
-/*!
- * Bootstrap v3.2.0 (http://getbootstrap.com)
- * Copyright 2011-2014 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-
-/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-
-
 body { 
-    background-color: white;
-    
+    background-color: white;   
 }
 
 #wrap {
@@ -33,64 +23,54 @@ hr {
 
 }
 
-
-/* DIV ID PAGE STYLES */
+/****** DIV ID PAGE STYLES *****/
 #homePageStyle, #pStyle p {
   font-size: 16px;
 }
 
-/*p#pStyle {
-  font-size: 16px;
-}
-*/
-
-/* HEADER */
-
-#header {
-	padding-top: 30px;
-	padding-bottom: 20px;
-  background: #466368;
-  background: -webkit-linear-gradient(#648880, #293f50);
-  background:    -moz-linear-gradient(#648880, #293f50);
-  background:         linear-gradient(#648880, #293f50); 
+/****** HEADER ******/
+header{
+  display: flex;  /* Enable flex mode. */
+  justify-content: space-between; /* Spread out the elements inside the header. */
+  align-items: center;  /* Align items vertically in the center. */
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: #293f50;
+  //background: #466368;
+  //background: -webkit-linear-gradient(#648880, #293f50);
+  //background:    -moz-linear-gradient(#648880, #293f50);
+  //background:         linear-gradient(#648880, #293f50); 
   /*background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(1, #000099)); */
-
-}
-
-.logo {
-float: left;
-width: 225px;
-height: 100px;
-padding-bottom: 60px;
-padding-left: 50px;
 }
 
 /* resize images */
 .logo img {
-    background-image: url("./images/western_logo.gif");
-    width: 100%;
-    height: auto;
+  background-image: url("./images/western_logo.gif");
+  width: 225px;
+  height: auto;
+  padding-left: 50px;
 
 }
-
-.address {
-float: right;
-width: 300px;
-height: 150px;
-padding-bottom: 60px;
-padding-right: 150px;
-text-align: right;
-}
-
 
 #address p {
-	margin-right: 50px;
-	text-align: right;
+  margin-right: 50px;
   font-size: 15px;
   color: white;
-}
+  padding-left: 50px;
+  }
 
-/* NAVBAR */
+
+@media (max-width: 1000px){
+  header{
+    /* Reverse the axis of the header, making it vertical. */
+    flex-direction: column;
+    
+    /* Align items to the begining (the left) of the header. */
+    align-items: flex-start;
+  }
+}
+	
+/****** NAVBAR ******/
 
 .navbar {
   position: relative;
@@ -149,7 +129,7 @@ text-align: right;
  }
 }
 
-/* CAROUSEL */
+/***** CAROUSEL *****/
 
 .carousel {
     position: relative;
@@ -163,7 +143,7 @@ text-align: right;
       
 } 
 
-/* AWARDS BOX HOME PAGE */
+/***** AWARDS BOX HOME PAGE *****/
 .thumbnail #awards {
   background-color: #E0E0E0;
   padding: 5px;
@@ -177,7 +157,7 @@ text-align: right;
 
 }
 
-/* COURT AVAILABILITY LINK HOME PAGE */
+/***** COURT AVAILABILITY LINK HOME PAGE ******/
 
 #courtAvailability a {
   color: #41ad49;
@@ -194,7 +174,7 @@ text-align: right;
   text-align: center;
 }
 
-/* FOOTER */
+/****** FOOTER ******/
 
 #footer {
 	clear: both;
@@ -218,7 +198,6 @@ text-align: right;
 
 }
 
-
 #map-canvas {
         width: 600px;
         height: 375px;
@@ -238,7 +217,7 @@ font: bold;
   color: red;
 }
 
-/* BABOLAT TABLE */
+/***** BABOLAT TABLE *****/
 table.gridtable {
   font-size:12px;
   color:#333333;
@@ -262,7 +241,7 @@ table.gridtable td {
   
 }
 
-/* MEMBERSHIP TABLE */
+/***** MEMBERSHIP TABLE *****/
 
 .tableHeadingStyle  {
   font-weight: bold;
@@ -307,11 +286,26 @@ table.gridtableMembership td {
   color:  #293f50;
 }
 
+/****** RESPONSIVE MAP/FIXURE TABLE ******/
 
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
 
+.fixtureTable-responsive {
+    overflow: hidden;
+    padding-bottom: 100%;
+    position: relative;
+    height: 0;
+}
 
-
-
-
-
-
+.map-responsive iframe, .fixtureTable-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
